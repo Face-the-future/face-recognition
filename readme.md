@@ -43,4 +43,5 @@ Insufficient data for conventional model training and ensuring accuracy, reliabi
 - Robustness against environmental variations.
 
 ## Future Opportunities:
-Continued machine learning enables adaptation and performance optimization, ensuring high accuracy and reliability in attendance tracking without periodic retraining.
+Continued machine learning enables adaptation and performance optimization, ensuring high accuracy and reliability in attendance tracking without periodic retraining
+
